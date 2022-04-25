@@ -1,2 +1,4 @@
 1
 main
+set upstream 설정
+
